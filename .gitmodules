@@ -1,0 +1,6 @@
+[submodule "cmdlineonly/themes/themes/hugo-coder"]
+	path = cmdlineonly/themes/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "cmdlineonly/themes/hugo-coder"]
+	path = cmdlineonly/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
