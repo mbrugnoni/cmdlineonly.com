@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cmdlineonly</title>
+    <link>http://www.cmdlineonly.com/</link>
+    <description>Recent content on cmdlineonly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.cmdlineonly.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.cmdlineonly.com/about/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/about/</guid>
+      <description>Hi, I&amp;rsquo;m Mike.
+This site was created as a test bed for learning and documenting some projects I&amp;rsquo;m working on. We&amp;rsquo;ll see what it evolves into over time. It was initially created as the result of learning how to use Hugo, Github Actions, and Azure Static Web pages.
+Some areas my projects will currently be focused on:
+ Azure AWS Ansible Terraform Kubernetes And probably much more!  </description>
+    </item>
+    
+    <item>
+      <title>Placeholder</title>
+      <link>http://www.cmdlineonly.com/posts/placeholder/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/posts/placeholder/</guid>
+      <description>This is where I will add post for first project.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.cmdlineonly.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/contact/</guid>
+      <description>Email me at mike@cmdlineonly.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.cmdlineonly.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+  </channel>
+</rss>
