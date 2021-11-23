@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Working on switching to Neovim</title>
-      <link>http://www.cmdlineonly.com/posts/vim/</link>
-      <pubDate>Sun, 07 Nov 2021 20:06:24 -0500</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/posts/vim/</guid>
-      <description>Working on switching to Neovim Add config files once they are mostly set up Plugin installation Checkhealth info</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://www.cmdlineonly.com/about/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
@@ -35,15 +26,6 @@
 This site was created as a test bed for learning and documenting some projects I&amp;rsquo;m working on. We&amp;rsquo;ll see what it evolves into over time. It was initially created as the result of learning how to use Hugo, Github Actions, and Azure Static Web pages.
 Some areas my projects will currently be focused on:
  Azure AWS Ansible Terraform Kubernetes And probably much more!  </description>
-    </item>
-    
-    <item>
-      <title>Placeholder</title>
-      <link>http://www.cmdlineonly.com/posts/placeholder/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/posts/placeholder/</guid>
-      <description>This is where I will add post for first project.</description>
     </item>
     
     <item>

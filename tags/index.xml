@@ -52,41 +52,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>linux</title>
-      <link>http://www.cmdlineonly.com/tags/linux/</link>
-      <pubDate>Sun, 07 Nov 2021 20:06:24 -0500</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vim</title>
-      <link>http://www.cmdlineonly.com/tags/vim/</link>
-      <pubDate>Sun, 07 Nov 2021 20:06:24 -0500</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/tags/vim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>project</title>
-      <link>http://www.cmdlineonly.com/tags/project/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/tags/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>testing</title>
-      <link>http://www.cmdlineonly.com/tags/testing/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/tags/testing/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
