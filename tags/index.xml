@@ -6,94 +6,85 @@
     <description>Recent content in Tags on cmdlineonly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.cmdlineonly.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 20:12:10 -0500</lastBuildDate><atom:link href="http://www.cmdlineonly.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>http://www.cmdlineonly.com/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>az-104</title>
+      <link>http://www.cmdlineonly.com/tags/az-104/</link>
+      <pubDate>Sun, 07 Nov 2021 20:12:10 -0500</pubDate>
       
-      <guid>http://www.cmdlineonly.com/tags/css/</guid>
+      <guid>http://www.cmdlineonly.com/tags/az-104/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>http://www.cmdlineonly.com/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>azure</title>
+      <link>http://www.cmdlineonly.com/tags/azure/</link>
+      <pubDate>Sun, 07 Nov 2021 20:12:10 -0500</pubDate>
       
-      <guid>http://www.cmdlineonly.com/tags/html/</guid>
+      <guid>http://www.cmdlineonly.com/tags/azure/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>http://www.cmdlineonly.com/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>certification</title>
+      <link>http://www.cmdlineonly.com/tags/certification/</link>
+      <pubDate>Sun, 07 Nov 2021 20:12:10 -0500</pubDate>
       
-      <guid>http://www.cmdlineonly.com/tags/markdown/</guid>
+      <guid>http://www.cmdlineonly.com/tags/certification/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>privacy</title>
-      <link>http://www.cmdlineonly.com/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>cloud</title>
+      <link>http://www.cmdlineonly.com/tags/cloud/</link>
+      <pubDate>Sun, 07 Nov 2021 20:12:10 -0500</pubDate>
       
-      <guid>http://www.cmdlineonly.com/tags/privacy/</guid>
+      <guid>http://www.cmdlineonly.com/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>shortcodes</title>
-      <link>http://www.cmdlineonly.com/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>exam</title>
+      <link>http://www.cmdlineonly.com/tags/exam/</link>
+      <pubDate>Sun, 07 Nov 2021 20:12:10 -0500</pubDate>
       
-      <guid>http://www.cmdlineonly.com/tags/shortcodes/</guid>
+      <guid>http://www.cmdlineonly.com/tags/exam/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>text</title>
-      <link>http://www.cmdlineonly.com/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>linux</title>
+      <link>http://www.cmdlineonly.com/tags/linux/</link>
+      <pubDate>Sun, 07 Nov 2021 20:06:24 -0500</pubDate>
       
-      <guid>http://www.cmdlineonly.com/tags/text/</guid>
+      <guid>http://www.cmdlineonly.com/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>emoji</title>
-      <link>http://www.cmdlineonly.com/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>vim</title>
+      <link>http://www.cmdlineonly.com/tags/vim/</link>
+      <pubDate>Sun, 07 Nov 2021 20:06:24 -0500</pubDate>
       
-      <guid>http://www.cmdlineonly.com/tags/emoji/</guid>
+      <guid>http://www.cmdlineonly.com/tags/vim/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>development</title>
-      <link>http://www.cmdlineonly.com/tags/development/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <title>project</title>
+      <link>http://www.cmdlineonly.com/tags/project/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cmdlineonly.com/tags/development/</guid>
+      <guid>http://www.cmdlineonly.com/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>http://www.cmdlineonly.com/tags/hugo/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <title>testing</title>
+      <link>http://www.cmdlineonly.com/tags/testing/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cmdlineonly.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>http://www.cmdlineonly.com/tags/themes/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/tags/themes/</guid>
+      <guid>http://www.cmdlineonly.com/tags/testing/</guid>
       <description></description>
     </item>
     

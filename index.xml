@@ -6,79 +6,44 @@
     <description>Recent content on cmdlineonly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.cmdlineonly.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 20:12:10 -0500</lastBuildDate><atom:link href="http://www.cmdlineonly.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://www.cmdlineonly.com/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Passing the AZ-104 Azure Administrator Exam</title>
+      <link>http://www.cmdlineonly.com/posts/az104/</link>
+      <pubDate>Sun, 07 Nov 2021 20:12:10 -0500</pubDate>
       
-      <guid>http://www.cmdlineonly.com/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>http://www.cmdlineonly.com/posts/az104/</guid>
+      <description>I was able to pass the AZ-104 exam with minimal resources and minimal time dedicated to studying. Over the course of a couple months, I studied part-time - mostly when I had free time at night. I used this certification path as an outline to get more familiar with Azure. Although the exam is all multiple choice, and the benefit you get from those types of exams isn&amp;rsquo;t much, it does point you in the right direction on which areas to focus on if you want to learn about Azure administration.</description>
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>http://www.cmdlineonly.com/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Working on switching to Neovim</title>
+      <link>http://www.cmdlineonly.com/posts/vim/</link>
+      <pubDate>Sun, 07 Nov 2021 20:06:24 -0500</pubDate>
       
-      <guid>http://www.cmdlineonly.com/posts/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>More Rich Content</title>
-      <link>http://www.cmdlineonly.com/posts/more-rich-content/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/posts/more-rich-content/</guid>
-      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://www.cmdlineonly.com/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://www.cmdlineonly.com/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/posts/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>http://www.cmdlineonly.com/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>External Page: Hugo Coder Wiki</title>
-      <link>http://www.cmdlineonly.com/posts/hugo-coder-wiki/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cmdlineonly.com/posts/hugo-coder-wiki/</guid>
-      <description></description>
+      <guid>http://www.cmdlineonly.com/posts/vim/</guid>
+      <description>Working on switching to Neovim Add config files once they are mostly set up Plugin installation Checkhealth info</description>
     </item>
     
     <item>
       <title>About</title>
       <link>http://www.cmdlineonly.com/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>http://www.cmdlineonly.com/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>Hi, I&amp;rsquo;m Mike.
+This site was created as a test bed for learning and documenting some projects I&amp;rsquo;m working on. We&amp;rsquo;ll see what it evolves into over time. It was initially created as the result of learning how to use Hugo, Github Actions, and Azure Static Web pages.
+Some areas my projects will currently be focused on:
+ Azure AWS Ansible Terraform Kubernetes And probably much more!  </description>
+    </item>
+    
+    <item>
+      <title>Placeholder</title>
+      <link>http://www.cmdlineonly.com/posts/placeholder/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/posts/placeholder/</guid>
+      <description>This is where I will add post for first project.</description>
     </item>
     
     <item>
