@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on cmdlineonly</title>
+    <link>http://www.cmdlineonly.com/tags/github/</link>
+    <description>Recent content in github on cmdlineonly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.cmdlineonly.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zettelkasten notes in GitHub</title>
+      <link>http://www.cmdlineonly.com/posts/git_grep/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/posts/git_grep/</guid>
+      <description>I started looking into the Zettelkasten method of note taking recently. There are many ways to go about accomplishing it digitally, but I wanted something simple and straight forward. Ideally, it would be in a format that is as universal as possible, without lock in to some type of proprietary client. I wanted to be able to easily sync across devices, and access the notes via Linux terminal.
+After reading into some options, I settled upon using GitHub as my notes repo.</description>
+    </item>
+    
+  </channel>
+</rss>

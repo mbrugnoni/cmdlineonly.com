@@ -6,7 +6,17 @@
     <description>Recent content in Mike on cmdlineonly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Nov 2021 20:12:10 -0500</lastBuildDate><atom:link href="http://www.cmdlineonly.com/authors/mike/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.cmdlineonly.com/authors/mike/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zettelkasten notes in GitHub</title>
+      <link>http://www.cmdlineonly.com/posts/git_grep/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/posts/git_grep/</guid>
+      <description>I started looking into the Zettelkasten method of note taking recently. There are many ways to go about accomplishing it digitally, but I wanted something simple and straight forward. Ideally, it would be in a format that is as universal as possible, without lock in to some type of proprietary client. I wanted to be able to easily sync across devices, and access the notes via Linux terminal.
+After reading into some options, I settled upon using GitHub as my notes repo.</description>
+    </item>
+    
     <item>
       <title>Passing the AZ-104 Azure Administrator Exam</title>
       <link>http://www.cmdlineonly.com/posts/az104/</link>
