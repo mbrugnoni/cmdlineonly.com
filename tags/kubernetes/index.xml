@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kubernetes on cmdlineonly</title>
+    <link>http://www.cmdlineonly.com/tags/kubernetes/</link>
+    <description>Recent content in kubernetes on cmdlineonly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.cmdlineonly.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KCNA (Kubernetes and Cloud Native Associate) certification exam - passed... but worth it?</title>
+      <link>http://www.cmdlineonly.com/posts/kcna_cert/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/posts/kcna_cert/</guid>
+      <description>I just recently passed the KCNA (Kubernetes and Cloud Native Associate) certification. I wanted to summarize my experience as it is a fairly new certification, and there isn&amp;rsquo;t that much information online about it.
+I want to start with a little bit of relevant background experience. I previously have completed the majority of the CKA training course on KodeKloud. It is a great course, and gave me a lot of hands on K8s experience through the labs.</description>
+    </item>
+    
+  </channel>
+</rss>
