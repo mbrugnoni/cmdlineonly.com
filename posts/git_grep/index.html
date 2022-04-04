@@ -70,7 +70,7 @@ After reading into some options, I settled upon using GitHub as my notes repo." 
 
     
 
-    <meta name="generator" content="Hugo 0.88.1" />
+    <meta name="generator" content="Hugo 0.90.1" />
   </head>
 
   
@@ -175,7 +175,7 @@ After reading into some options, I settled upon using GitHub as my notes repo." 
       <div>
         
         <p>I started looking into the <a href="https://zettelkasten.de/posts/overview/">Zettelkasten method</a> of note taking recently. There are many ways to go about accomplishing it digitally, but I wanted something simple and straight forward. Ideally, it would be in a format that is as universal as possible, without lock in to some type of proprietary client. I wanted to be able to easily sync across devices, and access the notes via Linux terminal.</p>
-<p>After reading into some options, I settled upon using GitHub as my notes repo. There are already tools available to do this in Linux, but I felt like I wanted to keep it simple and create my own to accomplish only what I needed. I wrote a quick shell script to copy a template file into my local git repo and begin editing in vim. Instead of generating some complex UID, I just generate a unique filename using <code>date +&quot;%Y%m%d%H%M%S&quot;.md</code>. The only limitation here is that I&rsquo;ll only have 1 unique name every second - something which obviously won&rsquo;t be a problem.</p>
+<p>After reading into some options, I settled upon using GitHub as my notes repo. Inspiration for this method came from <a href="https://github.com/rwxrob">rwxrob</a>. There are already tools available to do this in Linux, but I felt like I wanted to keep it simple and create my own to accomplish only what I needed. I wrote a quick shell script to copy a template file into my local git repo and begin editing in vim. Instead of generating some complex UID, I just generate a unique filename using <code>date +&quot;%Y%m%d%H%M%S&quot;.md</code>. The only limitation here is that I&rsquo;ll only have 1 unique name every second - something which obviously won&rsquo;t be a problem.</p>
 <p>The Markdown format is perfect for creating the notes because it is mostly universal and should have great longevity. Even if Markdown somehow dissappeared in the future, it&rsquo;s still mostly just plain text and easily readable.</p>
 <p>Another great thing about storing the notes in GitHub is the ability to easily search the notes using <code>git grep &lt;pattern&gt;</code>. Even the file names are irrelevent in this case, because I can easily search the entire repo and find exactly where a term or tag is used. It even supports regex using <code>git grep -e &quot;&lt;regex&gt;&quot;</code>.</p>
 <p>The more I get into using GitHub, the more interesting uses I find for it.</p>
@@ -207,7 +207,9 @@ After reading into some options, I settled upon using GitHub as my notes repo." 
       
         ©
         
-        2021
+          2021 -
+        
+        2022
          Mike Brugnoni 
       
       
