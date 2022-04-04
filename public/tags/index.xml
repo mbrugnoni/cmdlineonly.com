@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on cmdlineonly</title>
+    <link>http://www.cmdlineonly.com/tags/</link>
+    <description>Recent content in Tags on cmdlineonly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.cmdlineonly.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>certification</title>
+      <link>http://www.cmdlineonly.com/tags/certification/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/tags/certification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>http://www.cmdlineonly.com/tags/cloud/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exam</title>
+      <link>http://www.cmdlineonly.com/tags/exam/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/tags/exam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kcna</title>
+      <link>http://www.cmdlineonly.com/tags/kcna/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/tags/kcna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>http://www.cmdlineonly.com/tags/kubernetes/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>http://www.cmdlineonly.com/tags/git/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>http://www.cmdlineonly.com/tags/github/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zettelkasten</title>
+      <link>http://www.cmdlineonly.com/tags/zettelkasten/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/tags/zettelkasten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>az-104</title>
+      <link>http://www.cmdlineonly.com/tags/az-104/</link>
+      <pubDate>Sun, 07 Nov 2021 20:12:10 -0500</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/tags/az-104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure</title>
+      <link>http://www.cmdlineonly.com/tags/azure/</link>
+      <pubDate>Sun, 07 Nov 2021 20:12:10 -0500</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on cmdlineonly</title>
+    <link>http://www.cmdlineonly.com/posts/</link>
+    <description>Recent content in Posts on cmdlineonly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.cmdlineonly.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KCNA certification exam - passed... but worth it?</title>
+      <link>http://www.cmdlineonly.com/posts/kcna_cert/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/posts/kcna_cert/</guid>
+      <description>I just recently passed the KCNA (Kubernetes and Cloud Native Associate) certification. I wanted to summarize my experience as it is a fairly new certification, and there isn&amp;rsquo;t that much information online about it.
+I want to start with a little bit of relevant background experience. I previously have completed the majority of the CKA training course on KodeKloud. It is a great course, and gave me a lot of hands on K8s experience through the labs.</description>
+    </item>
+    
+    <item>
+      <title>Zettelkasten notes in GitHub</title>
+      <link>http://www.cmdlineonly.com/posts/git_grep/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/posts/git_grep/</guid>
+      <description>I started looking into the Zettelkasten method of note taking recently. There are many ways to go about accomplishing it digitally, but I wanted something simple and straight forward. Ideally, it would be in a format that is as universal as possible, without lock in to some type of proprietary client. I wanted to be able to easily sync across devices, and access the notes via Linux terminal.
+After reading into some options, I settled upon using GitHub as my notes repo.</description>
+    </item>
+    
+    <item>
+      <title>Passing the AZ-104 Azure Administrator Exam</title>
+      <link>http://www.cmdlineonly.com/posts/az104/</link>
+      <pubDate>Sun, 07 Nov 2021 20:12:10 -0500</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/posts/az104/</guid>
+      <description>I was able to pass the AZ-104 exam with minimal resources and minimal time dedicated to studying. Over the course of a couple months, I studied part-time - mostly when I had free time at night. I used this certification path as an outline to get more familiar with Azure. Although the exam is all multiple choice, and the benefit you get from those types of exams isn&amp;rsquo;t much, it does point you in the right direction on which areas to focus on if you want to learn about Azure administration.</description>
+    </item>
+    
+  </channel>
+</rss>

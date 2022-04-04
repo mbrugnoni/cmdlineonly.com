@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azure on cmdlineonly</title>
+    <link>http://www.cmdlineonly.com/tags/azure/</link>
+    <description>Recent content in azure on cmdlineonly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Nov 2021 20:12:10 -0500</lastBuildDate><atom:link href="http://www.cmdlineonly.com/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passing the AZ-104 Azure Administrator Exam</title>
+      <link>http://www.cmdlineonly.com/posts/az104/</link>
+      <pubDate>Sun, 07 Nov 2021 20:12:10 -0500</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/posts/az104/</guid>
+      <description>I was able to pass the AZ-104 exam with minimal resources and minimal time dedicated to studying. Over the course of a couple months, I studied part-time - mostly when I had free time at night. I used this certification path as an outline to get more familiar with Azure. Although the exam is all multiple choice, and the benefit you get from those types of exams isn&amp;rsquo;t much, it does point you in the right direction on which areas to focus on if you want to learn about Azure administration.</description>
+    </item>
+    
+  </channel>
+</rss>
