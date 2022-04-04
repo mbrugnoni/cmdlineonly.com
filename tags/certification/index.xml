@@ -6,7 +6,17 @@
     <description>Recent content in certification on cmdlineonly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.cmdlineonly.com/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.cmdlineonly.com/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passing the Terraform Certified Associate</title>
+      <link>http://www.cmdlineonly.com/posts/terraform-associate/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cmdlineonly.com/posts/terraform-associate/</guid>
+      <description>I just recently passed the Terraform Associate exam. I wanted to share my experience on what I thought about the exam, as well as the study material I used.
+I didn&amp;rsquo;t have any background in using Terraform up until a couple months ago. It looked like an interesting tool for expanding my IaC which was previously limited to mostly Ansible. I started looking into it and really enjoyed the way infrastructure was defined using HCL.</description>
+    </item>
+    
     <item>
       <title>KCNA certification exam - passed... but worth it?</title>
       <link>http://www.cmdlineonly.com/posts/kcna_cert/</link>

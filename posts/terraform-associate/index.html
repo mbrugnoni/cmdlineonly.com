@@ -13,31 +13,31 @@
     
 
     <meta name="author" content="Mike Brugnoni">
-    <meta name="description" content="I started looking into the Zettelkasten method of note taking recently. There are many ways to go about accomplishing it digitally, but I wanted something simple and straight forward. Ideally, it would be in a format that is as universal as possible, without lock in to some type of proprietary client. I wanted to be able to easily sync across devices, and access the notes via Linux terminal.
-After reading into some options, I settled upon using GitHub as my notes repo.">
+    <meta name="description" content="I just recently passed the Terraform Associate exam. I wanted to share my experience on what I thought about the exam, as well as the study material I used.
+I didn&rsquo;t have any background in using Terraform up until a couple months ago. It looked like an interesting tool for expanding my IaC which was previously limited to mostly Ansible. I started looking into it and really enjoyed the way infrastructure was defined using HCL.">
     <meta name="keywords" content="blog,developer,engineer,it,portfolio,personal">
 
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Zettelkasten notes in GitHub"/>
-<meta name="twitter:description" content="I started looking into the Zettelkasten method of note taking recently. There are many ways to go about accomplishing it digitally, but I wanted something simple and straight forward. Ideally, it would be in a format that is as universal as possible, without lock in to some type of proprietary client. I wanted to be able to easily sync across devices, and access the notes via Linux terminal.
-After reading into some options, I settled upon using GitHub as my notes repo."/>
+<meta name="twitter:title" content="Passing the Terraform Certified Associate"/>
+<meta name="twitter:description" content="I just recently passed the Terraform Associate exam. I wanted to share my experience on what I thought about the exam, as well as the study material I used.
+I didn&rsquo;t have any background in using Terraform up until a couple months ago. It looked like an interesting tool for expanding my IaC which was previously limited to mostly Ansible. I started looking into it and really enjoyed the way infrastructure was defined using HCL."/>
 
-    <meta property="og:title" content="Zettelkasten notes in GitHub" />
-<meta property="og:description" content="I started looking into the Zettelkasten method of note taking recently. There are many ways to go about accomplishing it digitally, but I wanted something simple and straight forward. Ideally, it would be in a format that is as universal as possible, without lock in to some type of proprietary client. I wanted to be able to easily sync across devices, and access the notes via Linux terminal.
-After reading into some options, I settled upon using GitHub as my notes repo." />
+    <meta property="og:title" content="Passing the Terraform Certified Associate" />
+<meta property="og:description" content="I just recently passed the Terraform Associate exam. I wanted to share my experience on what I thought about the exam, as well as the study material I used.
+I didn&rsquo;t have any background in using Terraform up until a couple months ago. It looked like an interesting tool for expanding my IaC which was previously limited to mostly Ansible. I started looking into it and really enjoyed the way infrastructure was defined using HCL." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.cmdlineonly.com/posts/git_grep/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-12-19T00:00:00+00:00" />
-<meta property="article:modified_time" content="2021-12-19T00:00:00+00:00" />
+<meta property="og:url" content="http://www.cmdlineonly.com/posts/terraform-associate/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-04-04T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-04-04T00:00:00+00:00" />
 
 
 
     <title>
-  Zettelkasten notes in GitHub · cmdlineonly
+  Passing the Terraform Certified Associate · cmdlineonly
 </title>
 
     
-      <link rel="canonical" href="http://www.cmdlineonly.com/posts/git_grep/">
+      <link rel="canonical" href="http://www.cmdlineonly.com/posts/terraform-associate/">
     
 
     <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -133,8 +133,8 @@ After reading into some options, I settled upon using GitHub as my notes repo." 
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="http://www.cmdlineonly.com/posts/git_grep/">
-              Zettelkasten notes in GitHub
+            <a class="title-link" href="http://www.cmdlineonly.com/posts/terraform-associate/">
+              Passing the Terraform Certified Associate
             </a>
           </h1>
         </div>
@@ -142,8 +142,8 @@ After reading into some options, I settled upon using GitHub as my notes repo." 
           <div class="date">
             <span class="posted-on">
               <i class="fa fa-calendar" aria-hidden="true"></i>
-              <time datetime='2021-12-19T00:00:00Z'>
-                December 19, 2021
+              <time datetime='2022-04-04T00:00:00Z'>
+                April 4, 2022
               </time>
             </span>
             <span class="reading-time">
@@ -158,15 +158,15 @@ After reading into some options, I settled upon using GitHub as my notes repo." 
           <div class="tags">
   <i class="fa fa-tag" aria-hidden="true"></i>
     <span class="tag">
-      <a href="/tags/github/">github</a>
+      <a href="/tags/terraform/">terraform</a>
     </span>
       <span class="separator">•</span>
     <span class="tag">
-      <a href="/tags/git/">git</a>
+      <a href="/tags/exam/">exam</a>
     </span>
       <span class="separator">•</span>
     <span class="tag">
-      <a href="/tags/zettelkasten/">zettelkasten</a>
+      <a href="/tags/certification/">certification</a>
     </span></div>
 
         </div>
@@ -174,11 +174,10 @@ After reading into some options, I settled upon using GitHub as my notes repo." 
 
       <div>
         
-        <p>I started looking into the <a href="https://zettelkasten.de/posts/overview/">Zettelkasten method</a> of note taking recently. There are many ways to go about accomplishing it digitally, but I wanted something simple and straight forward. Ideally, it would be in a format that is as universal as possible, without lock in to some type of proprietary client. I wanted to be able to easily sync across devices, and access the notes via Linux terminal.</p>
-<p>After reading into some options, I settled upon using GitHub as my notes repo. Inspiration for this method came from <a href="https://github.com/rwxrob">rwxrob</a>. There are already tools available to do this in Linux, but I felt like I wanted to keep it simple and create my own to accomplish only what I needed. I wrote a quick shell script to copy a template file into my local git repo and begin editing in vim. Instead of generating some complex UID, I just generate a unique filename using <code>date +&quot;%Y%m%d%H%M%S&quot;.md</code>. The only limitation here is that I&rsquo;ll only have 1 unique name every second - something which obviously won&rsquo;t be a problem.</p>
-<p>The Markdown format is perfect for creating the notes because it is mostly universal and should have great longevity. Even if Markdown somehow dissappeared in the future, it&rsquo;s still mostly just plain text and easily readable.</p>
-<p>Another great thing about storing the notes in GitHub is the ability to easily search the notes using <code>git grep &lt;pattern&gt;</code>. Even the file names are irrelevent in this case, because I can easily search the entire repo and find exactly where a term or tag is used. It even supports regex using <code>git grep -e &quot;&lt;regex&gt;&quot;</code>.</p>
-<p>The more I get into using GitHub, the more interesting uses I find for it.</p>
+        <p>I just recently passed the Terraform Associate exam. I wanted to share my experience on what I thought about the exam, as well as the study material I used.</p>
+<p>I didn&rsquo;t have any background in using Terraform up until a couple months ago. It looked like an interesting tool for expanding my IaC which was previously limited to mostly Ansible. I started looking into it and really enjoyed the way infrastructure was defined using HCL. I have decent base of general scripting/programming concepts, but HCL is fairly easy to understand and if you&rsquo;ve worked with JSON/YAML it will be very similar.</p>
+<p>As far as study material went, I used the course on <a href="https://kodekloud.com/courses/hashicorp-certified-terraform-associate/">KodeKloud</a> that was geared toward the certification. Outside of that, I did a bunch of messing around both in my home lab, as well as in my personal Azure environment. If you&rsquo;re already using Terraform in the enterprise, or even frequently use it for personal use, the exam should be fairly easy. The only thing that may be an outlier - if you&rsquo;ve never used it - is the Terraform Cloud offering. There is a subset of questions geared toward that offering, but they are pretty basic. You should understand the general features Terraform Cloud provides and what the enterprise offerings are on top of that. You don&rsquo;t need to know the features in depth - just be aware of what they are.</p>
+<p>It was one of the cheapest certification exams I have taken at $70. At that price, there&rsquo;s no reason not to take it if it&rsquo;s relevant to your career. Overall, I thought it was a fun exam to study for and really got me more interested in pursuing the use of Terraform further. The exam is an associate level certification, so there&rsquo;s definitely potential for HashiCorp to add on a more practical &ldquo;advanced&rdquo; level exam in the future.</p>
 
       </div>
 
