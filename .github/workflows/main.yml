@@ -20,7 +20,7 @@ jobs:
       with:
 #        azcliversion: 2.0.72 --This version broke, commenting out as default should fix
         inlineScript: |
-            az storage blob upload-batch --account-name cmdlineonlysa  --auth-mode key -d '$web' -s .
+            az storage blob upload-batch --account-name cmdlineonlysa  --auth-mode key -d '$web' -s . --overwrite
     - name: Purge CDN endpoint
       uses: azure/CLI@v1
       with:
